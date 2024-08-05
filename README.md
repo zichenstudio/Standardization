@@ -8,6 +8,12 @@
 
 如果对你有帮助，请点个Star支持一下，如果你想要基于此创建一个新的规则，请fork
 
+### 规范
+
+_所有我们曾经发过的规范以后都在这里更新_
+
+- [版本号命名规范](version-number.md)
+
 ### LICENSE
 
 [CC0 1.0 Universal](LICENSE)
