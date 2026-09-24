@@ -1,6 +1,6 @@
 # 版本号命名规范
 
-_本规范在官方Blog首发（https://zichenstudio.github.io/blog/2024/07/27/version-number-naming-convention.html）_
+_本规范在官方Blog首发(https://zichenstudio.github.io/blog/2024/07/27/version-number-naming-convention.html)_
 
 ### 一、格式
 
