@@ -13,6 +13,7 @@
 _所有我们曾经发过的规范以后都在这里更新_
 
 - [版本号命名规范](version-number.md)
+- [音视频文件格式规范](audio-and-video.md)
 
 ### LICENSE
 
